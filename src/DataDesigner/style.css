@@ -1,0 +1,306 @@
+html, body{
+    width: 100%;
+    background-color: #fafafa;
+    font-family: "Roboto","Arial",sans-serif;
+}
+.ib {
+    display: inline-block;
+}
+.youtubeLogo {
+    height: 50px;
+    width: 50px;
+    background-color: #fafafa;
+}
+.jcole-tickets{
+    border-top: solid 1px lightgrey;
+    border-bottom: solid 1px lightgrey;
+    margin-bottom:10px;
+    width:97%;
+}
+.under-video-info{
+    width:97%;
+    border-bottom: solid 1px lightgrey;
+    padding-top: 10px;
+}
+h2{
+    padding-top:20px;
+    font-size:14px;
+    margin-bottom:0px;
+}
+.calender-img{
+    float:left;
+    padding-top:20px;
+    width:80px;
+    height:80px;
+}
+#calender-img{
+    width:60px;
+    height:60px;
+}
+#show{
+    font-size:17px;
+    font-weight: normal;
+    width:880px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.subs{
+    margin-left:0px;
+    text-align: left;
+    width:97%;
+}
+.subscribe{
+    float: right;
+    width:15%;
+    text-align: center;
+}
+.buttons1{
+    width:29px;
+    height:29px;
+}
+.buttons{
+    margin-left:60%;
+    font-size: 15px;
+    padding-bottom: 4px;
+}
+.buttons3{
+    padding-top:12px;
+    width:14px;
+    height:14px;
+}
+.inline{ display: inline-block; }
+.jcole-info {
+    width:97%;
+}
+#jcoleimg{
+    width:80px;
+    height:80px;
+    left: 0px;
+    text-align: left;
+}
+.jcole-img {
+    float:left;
+    text-align: left;
+    top: 0px;
+    padding-top: 10px;
+    left:0px;
+    width:80px;
+    height:210px;
+}
+#navbar {
+    padding-top: 1px;
+    width: 100%;
+    margin: 0px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    position: fixed; 
+}
+.jsonDerulo {
+    padding-top: 95px;
+    margin-left: 1px;
+}
+#panel1 {
+  position:relative;
+  height: 105px;
+  width: 90%;
+  overflow: hidden;
+  padding-bottom: 2px;
+  display: inline-block;
+  
+}
+#image2 {
+  display: inline-block;
+  max-width:180px;
+  max-height:145px;
+}
+.Parent {
+    display: flex;
+    flex-direction: row;
+}
+.child1 {
+    width: 64%;
+    height: 100vh;
+    padding-left: 1%;
+    text-align: left;
+    color: black;
+}
+.child2 {
+    width: 36%;
+    padding-top: 110px;
+    height: 100vh;
+}
+h1{  
+    text-align: left;
+    font-size: 20px;
+}
+#view-count-date{ 
+    text-align: left; 
+    font-size:14px;
+    font-weight: heavy;
+    color: #888888;
+}
+#sub-count{
+    line-height: 20px;
+    font-size:13px;
+    font-weight: heavy;
+    color: #909090;
+    padding-bottom:20px;
+}
+#copyright{
+    padding:20px;
+    font-size:15px;
+}
+#legal-info{
+    padding:10px;
+    font-size:15px;
+}
+#show-more{
+    font-size:12px;
+    padding-bottom:15px;
+    padding-top:15px;
+    color:#797c82;
+}
+.upcoming-event{
+    width:120px;
+    font-size:14px;
+}
+.view-tickets{
+    font-size:14px;
+    color:blue;
+}
+#subtitle-1{
+    font-size:13px;
+    color: #797c82;
+    padding-top:20px;
+}
+.meta-info{
+    padding-top:25px;
+    width:400px;
+    height:130px;
+}
+#subtitle-2 {
+    text-decoration: none;
+    font-size:14px;
+    padding-top:25px;
+    color: #396ce3;
+}
+.comments{
+    width: 100%;
+}
+#image1 {
+    padding-left: 10px;
+    height: 55px;
+    width: 4%;
+}
+#image5 {
+    height: 55px;
+    width: 9.3%;
+    padding-right: 1.5%;
+    padding-top: 0px;
+} 
+#image3 {
+    padding-top: 5px;
+    height: 55px;
+    width: 47%;
+    padding-left: 50px;
+}
+#image4{
+    padding-top: 0px;
+    height: 55px;
+    width: 22%;
+    padding-left: 1.5%;
+}
+#clicker{
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -webkit-touch-callout : none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none; 
+    display: inline-block;
+    text-align:center;
+    padding:10px;
+    background-color: #c4302b;
+    border-radius: 2px;
+    margin-top:15px;
+    margin-left:4%;
+    font-size: 13px;
+    font-family: Roboto, Arial, sans-serif;
+    color: white;
+}
+.sideText{
+    padding-top: 0px;
+    margin-top: 0px;
+    display: inline-block;
+}
+.videoTitle{
+    font-weight: 500;
+    font-size: 17px;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-left: 6px;
+    overflow: clip;
+}
+.artistName{
+    color: #5c5b58;
+    font-size: 14.5px;
+    margin-left: 6px;
+    margin-bottom: 5px;
+}
+.videoViews{
+    display: inline-block;
+    color: #5c5b58;
+    font-size: 14.5px;
+    margin-left: 6px;
+}
+
+.videoDate{
+    display: inline-block;
+    color: #5c5b58;
+    font-size: 14.5px;
+    margin-left: 6px;
+    line-height:22px;
+}
+.weirdText{
+    vertical-align: 9px;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: blue;
+}
+a.subtitle2{
+    text-decoration: none;
+    font-size:14px;
+    padding-top:25px;
+    color: #396ce3;
+}
+a.subtitle2-link {
+    text-decoration: none;
+    font-size:14px;
+    padding-top:25px;
+    color: #396ce3;
+}
+a.subtitle2-visited{
+    text-decoration: none;
+    font-size:14px;
+    padding-top:25px;
+    color: #396ce3;
+}
+.mrclark{
+    max-width: 90%;
+    max-height: 90%;
+}
+.video {
+    width: 97%;
+    min-height: 300px;
+    min-width: 410px;
+}
+
+.commentText{
+    width:14%;
+    padding-top:15px;
+    padding-bottom:15px;
+}

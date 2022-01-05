@@ -1,0 +1,120 @@
+{
+	"userProfileInfo": [{
+		"userProfileImage": "profile.png",
+		"subscribed": "darkGrey",
+		"videoLiked": "blue",
+		"userEmail": "danielneugent@amdg.rockhursths.edu",
+		"userUsername": "danielneugent"
+	}],
+
+	"sideBarVideos": [{
+			"videoNumberFromTop": "one",
+			"videoName": "NoRoleModelz Official Music Video",
+			"videoImage": "danDanPhotos/noRoleModelz.jpg",
+			"amountOfViews": "100M",
+			"artistName": "JCole",
+			"dateReleased": "6 years ago",
+            "videoLink" : "https://www.youtube.com/watch?v=LR6ybr-BQYY"
+		},
+		{
+			"videoNumberFromTop": "two",
+			"videoName": "I'm On One VEVO",
+			"videoImage": "danDanPhotos/ImOnOne.jpg",
+			"amountOfViews": "420M",
+			"artistName": "DJ Khalid",
+			"dateReleased": "5 years ago",
+            "videoLink" : "https://www.youtube.com/watch?v=Z09lYqdxqzo"
+		},
+		{
+			"videoNumberFromTop": "three",
+			"videoName": "Power Trip Lyrcs On Screen",
+			"videoImage": "danDanPhotos/JColePowerTrip.jpg",
+			"amountOfViews": "50.1M",
+			"artistName": "JCole",
+			"dateReleased": "7 years ago",
+            "videoLink" : "https://www.youtube.com/watch?v=OGcYLf-g_oM"
+		},
+		{
+			"videoNumberFromTop": "four",
+			"videoName": "Hotline Bling FULL DANCE!",
+			"videoImage": "danDanPhotos/HotlineBling.jpg",
+			"amountOfViews": "1.2B",
+			"artistName": "Drake",
+			"dateReleased": "3 years ago",
+            "videoLink" : "https://www.youtube.com/watch?v=uxpDa-c-4Mc"
+		},
+		{
+			"videoNumberFromTop": "five",
+			"videoName": "Forever",
+			"videoImage": "danDanPhotos/Forever.jpg",
+			"amountOfViews": "500M",
+			"artistName": "Drake",
+			"dateReleased": "8 years ago",
+            "videoLink" : "https://www.youtube.com/watch?v=eDuRoPIOBjE"
+		},
+		{
+			"videoNumberFromTop": "six",
+			"videoName": "Chase The Money",
+			"videoImage": "danDanPhotos/ChaseTheMoney.jpg",
+			"amountOfViews": "232M",
+			"artistName": "E40",
+			"dateReleased": "2 years ago",
+            "videoLink" : "https://www.youtube.com/watch?v=_rQ6bmLHkBg"
+		},
+		{
+			"videoNumberFromTop": "seven",
+			"videoName": "Started From The Bottom",
+			"videoImage": "danDanPhotos/startedfrombottom.webp",
+			"amountOfViews": "932M",
+			"artistName": "Drake",
+			"dateReleased": "7 years ago",
+            "videoLink" : "https://www.youtube.com/watch?v=RubBzkZzpUA"
+		},
+		{
+			"videoNumberFromTop": "eight",
+			"videoName": "Ballin'",
+			"videoImage": "danDanPhotos/ballin.jpg",
+			"amountOfViews": "52.4M",
+			"artistName": "Logic",
+			"dateReleased": "9 years ago",
+            "videoLink" : "https://www.youtube.com/watch?v=nT04upwfsiI"
+		},
+		{
+			"videoNumberFromTop": "nine",
+			"videoName": "The Box",
+			"videoImage": "danDanPhotos/thebox.jpg",
+			"amountOfViews": "802M",
+			"artistName": "Roddy Rich",
+			"dateReleased": "8 years ago",
+            "videoLink" : "https://www.youtube.com/watch?v=uLHqpjW3aDs"
+		},
+		{
+			"videoNumberFromTop": "ten",
+			"videoName": "Stan",
+			"videoImage": "danDanPhotos/stan.jpg",
+			"amountOfViews": "832.9M",
+			"artistName": "Eminem",
+			"dateReleased": "19 years ago",
+            "videoLink" : "https://www.youtube.com/watch?v=gOMhN-hfMtY"
+            
+		},
+		{
+			"videoNumberFromTop": "eleven",
+			"videoName": "M.A.A.D City",
+			"videoImage": "danDanPhotos/MAADCITY.jpg",
+			"amountOfViews": "400.4M",
+			"artistName": "Kendrick Lamar",
+			"dateReleased": "7 years ago",
+            "videoLink" : "https://www.youtube.com/watch?v=AuikIJZpt_8"
+		},
+        {
+            "videoNumberFromTop": "twelve",
+			"videoName": "Better Than Ever",
+			"videoImage": "danDanPhotos/bilsky.jpg",
+			"amountOfViews": "2.8K",
+			"artistName": "Lil Bilsky",
+			"dateReleased": "2 years ago",
+            "videoLink" : "https://www.youtube.com/watch?v=33WrxbS6wps"
+        }
+	]
+}
